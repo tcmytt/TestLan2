@@ -25,4 +25,5 @@ Chu y:
     + : git remote -v :Xem danh sach remote
     + : git branch -d <ten nhanh> :Xoa 1 nhanh 
     + : git pull origin <ten nhanh> :Lay code(keo code) moi nhat cua nhanh ve, origin la kieu nhu bien chua link
+    + : .gitignore :Tao file ignore roi dua ten file vao de khong can dua len soure code git cho nang 
 -> Ket thuc 1 task
