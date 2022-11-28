@@ -1,3 +1,6 @@
+Set :
+    git config --global user.name "Ten"
+    git config --global user.gmail "tcmytt@gmail.com"
 Bc 1 : git init
 -> Tao repo duoi local , mac dinh nhanh a master
 Bc 2: git checkout -b develop
@@ -17,8 +20,9 @@ Chu y:
     + : git checkout -b <tenbranch> : Tao branch moi va nhay qua
     + : git branch : Xem tat ca cac nhanh, nhanh mau xanh la nhanh dang o 
     + : git checkout develop : Nhay qua nhanh develop , khong co -b se la nhay co -b la khoi tao va nhay
-    + : git log--oneline :Xem danh sach cac commit
+    + : git log :Xem danh sach commit
+    + : git log--oneline :Xem danh sach cac commit tren 1 dong
     + : git remote -v :Xem danh sach remote
     + : git branch -d <ten nhanh> :Xoa 1 nhanh 
-    + : git pull origin <ten nhanh> :Lay code(keo code) moi nhat cua nhanh ve
+    + : git pull origin <ten nhanh> :Lay code(keo code) moi nhat cua nhanh ve, origin la kieu nhu bien chua link
 -> Ket thuc 1 task
