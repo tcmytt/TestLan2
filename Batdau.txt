@@ -10,11 +10,15 @@ Bc 5 : git remote add origin https://github.com/tcmytt/TestLan2.git
     - link github repo ma can day code len
 Bc 6 : git push origin <ten nhanh> : Dua code len github link ten la origin dinh nghia o truoc
     - Trong du an ko dc push truc tiep len develop(Nhanh Chung)
+
+Chu y:
+    + :De commit code thi phai add truoc
 1 so cau lenh git co ban :
     + : git checkout -b <tenbranch> : Tao branch moi va nhay qua
     + : git branch : Xem tat ca cac nhanh, nhanh mau xanh la nhanh dang o 
     + : git checkout develop : Nhay qua nhanh develop , khong co -b se la nhay co -b la khoi tao va nhay
     + : git log--oneline :Xem danh sach cac commit
     + : git remote -v :Xem danh sach remote
-    + : git branch -d <ten nhanh> :Xoa 1 nhanh
+    + : git branch -d <ten nhanh> :Xoa 1 nhanh 
+    + : git pull origin <ten nhanh> :Lay code(keo code) moi nhat cua nhanh ve
 -> Ket thuc 1 task
