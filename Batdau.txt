@@ -1,0 +1,6 @@
+Bc 1 : git init
+-> tao repo duoi local , mac dinh nhanh a master
+Bc 2: git checkout -b develop
+-> tao nhanh moi co ten develop
+Bc 3 :  git add <Filename> :day file len
+        git add . : day tat ca file len
